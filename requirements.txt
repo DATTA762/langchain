@@ -7,4 +7,3 @@ transformers
 faiss-cpu
 groq
 python-dotenv
-python-3.11.9
